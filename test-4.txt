@@ -1,0 +1,3 @@
+Spring Boot dependencies use the org.springframework.boot groupId. Typically, your Maven POM file inherits from the spring-boot-starter-parent project and declares dependencies to one or more ¡°Starters¡±. Spring Boot also provides an optional Maven plugin to create executable jars.
+
+The following listing shows a typical pom.xml file:

@@ -1,0 +1,3 @@
+Spring Boot is compatible with Gradle 4.4 and later. If you do not already have Gradle installed, you can follow the instructions at gradle.org.
+
+Spring Boot dependencies can be declared by using the org.springframework.boot group. Typically, your project declares dependencies to one or more ¡°Starters¡±. Spring Boot provides a useful Gradle plugin that can be used to simplify dependency declarations and to create executable jars.
